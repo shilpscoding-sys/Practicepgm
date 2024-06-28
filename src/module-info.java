@@ -1,0 +1,2 @@
+module javaProgrammingPractice {
+}
